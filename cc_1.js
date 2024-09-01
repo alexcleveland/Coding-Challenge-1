@@ -16,6 +16,6 @@ let products = ["Xbox", "TV","Remote"];
 const productDetails = {
     name: 321,
     price: 2000.00,
-    inStock: yes,
+    inStock: "yes",
 }
 console.log(products, productDetails);
