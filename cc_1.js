@@ -14,7 +14,7 @@ console.log(isActive, typeof(isActive));
 
 let products = ["Xbox", "TV","Remote"];
 const productDetails = {
-    name: stuff,
+    name: 321,
     price: 2000.00,
     inStock: yes,
 }
